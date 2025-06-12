@@ -29,7 +29,6 @@ Assista ao vídeo demonstrando o funcionamento do sistema:
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/fredstrey/vehicle-tracking-system.git
 cd vehicle-tracking-system
 
