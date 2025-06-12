@@ -36,7 +36,7 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
-Adicione o caminho do vídeo
+Adicione o caminho do vídeo no config.py
 
 Execute o script:
 
