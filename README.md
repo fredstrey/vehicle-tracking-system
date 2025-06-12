@@ -28,17 +28,17 @@ Assista ao vídeo demonstrando o funcionamento do sistema:
 ## ▶️ Como Executar
 
 1. Clone o repositório:
-
+   
 git clone https://github.com/fredstrey/vehicle-tracking-system.git
 cd vehicle-tracking-system
 
-Instale as dependências:
+3. Instale as dependências:
 
 pip install -r requirements.txt
 
-Adicione o caminho do vídeo no config.py
+3. Adicione o caminho do vídeo no config.py
 
-Execute o script:
+4. Execute o script:
 
 python main.py
 
