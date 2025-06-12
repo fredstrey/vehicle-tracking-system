@@ -23,14 +23,6 @@ Assista ao vídeo demonstrando o funcionamento do sistema:
 - OpenCV
 - rfdetr 
 
-## 📁 Estrutura do Projeto
-
-vehicle-tracking-system/
-│
-├── main.py # Código principal para processamento do vídeo
-├── tracker.py # Classe do algoritmo de rastreamento
-├── input/ # Pasta com os vídeos de entrada
-└── output/ # Pasta para salvar vídeos processados
 
 
 ## ▶️ Como Executar
