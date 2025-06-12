@@ -1,0 +1,13 @@
+{
+    "Rua 1->Rua 2": 6,
+    "Rua 4->Rua 2": 15,
+    "Rua 2->Rua 4": 13,
+    "Rua 4->Rua 3": 1,
+    "Rua 4->Rua 1": 4,
+    "Rua 2->Rua 3": 3,
+    "Rua 3->Rua 1": 17,
+    "Rua 1->Rua 3": 5,
+    "Rua 1->Rua 4": 3,
+    "Rua 3->Rua 2": 3,
+    "Rua 3->Rua 4": 2
+}
