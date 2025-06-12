@@ -38,7 +38,7 @@ cd vehicle-tracking-system
 
 pip install -r requirements.txt
 
-3. Adicione o caminho do vídeo no config.py
+3. Adicione o caminho do vídeo no config.py e adicione as zonas de rastreamento para contabilizar o fluxo de veículos.
 
 4. Execute o script:
 
