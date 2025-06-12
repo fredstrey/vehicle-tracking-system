@@ -2,6 +2,8 @@
 
 Este projeto é um sistema simples de **rastreamento de veículos em vídeo**, desenvolvido em Python, que utiliza técnicas de **visão computacional** para detectar, contar e acompanhar veículos ao longo de um trecho de vídeo.
 
+Por se tratar de um algoritmo muito simples, possui algumas limitações e medições imprecisas. 
+
 ## 🎯 Objetivo
 
 Desenvolver um sistema que:
