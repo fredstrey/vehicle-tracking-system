@@ -1,0 +1,5 @@
+opencv-python==4.8.0.76
+numpy==1.24.4
+Pillow==10.2.0
+torch==2.2.2
+rfdetr
