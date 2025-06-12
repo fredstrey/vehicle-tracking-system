@@ -21,8 +21,7 @@ Assista ao vídeo demonstrando o funcionamento do sistema:
 
 - Python 3
 - OpenCV
-- NumPy
-- Algoritmos de rastreamento baseado em centroides (como o `CentroidTracker`)
+- rfdetr 
 
 ## 📁 Estrutura do Projeto
 
@@ -44,7 +43,7 @@ cd vehicle-tracking-system
 
 Instale as dependências:
 
-python main.py
+pip install -r requirements.txt
 
 Coloque o vídeo que deseja processar na pasta input/.
 
