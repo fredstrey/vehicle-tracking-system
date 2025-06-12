@@ -36,7 +36,7 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
-Coloque o vídeo que deseja processar na pasta input/.
+Adicione o caminho do vídeo
 
 Execute o script:
 
