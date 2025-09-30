@@ -26,7 +26,7 @@ ZONES = {
 }
 
 # --- Configurações de Visualização ---
-FONT = "FONT_HERSHEY_SIMPLEX" # Substituído por valor real no processador
+FONT = "FONT_HERSHEY_SIMPLEX"
 FONT_SCALE_INFO = 0.7
 FONT_SCALE_COUNTER = 0.6
 COLOR_ZONE = (255, 255, 0)      # Ciano
@@ -34,4 +34,5 @@ COLOR_TEXT_INFO = (0, 0, 255)   # Vermelho
 COLOR_TEXT_OD = (0, 255, 0)     # Verde
 COLOR_TEXT_CLASS = (0, 255, 255) # Amarelo
 COLOR_BOX_UNCOUNTED = (0, 255, 0) # Verde
+
 COLOR_BOX_COUNTED = (0, 0, 255)   # Vermelho
